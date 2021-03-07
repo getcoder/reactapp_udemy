@@ -9,7 +9,7 @@ const PostStatusFilter = () => {
         Все
       </button>
       <button type="button" className="btn btn-outline-secondary">
-        Понравилось
+        Понравившееся
       </button>
     </div>
   );
